@@ -7,7 +7,7 @@ using namespace std;
 
 int main(){
 int c, t; 
-vector vec; 
+vector<int> vec; 
 cin >> c; 
 while (c--) { 
   cin >> t; 
