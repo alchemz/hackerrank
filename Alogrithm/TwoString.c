@@ -1,3 +1,7 @@
+/**
+ * You are given two strings, AA and BB. Find if there is a substring that appears in both AA and BB.
+ * ***/
+
 #include <stdio.h>
 #include <string.h>
 
