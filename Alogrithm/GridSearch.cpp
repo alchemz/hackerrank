@@ -56,3 +56,5 @@ cout<<"NO"<<endl;
     
     return 0;
 }
+
+//https://www.hackerrank.com/challenges/the-grid-search
